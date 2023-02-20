@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Giorgio Grassini Portfolio</title>
+  <meta name="description" content="giorgio grassini portfolio, web developer html css javascript">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="../tailwind.config.js"></script>
+  <!-- <link rel="stylesheet" href="style.css"> -->
+  <style type="text/tailwindcss">
+    @layer components {
+      .card {
+        @apply block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-yellow-light mb-6;
+      }
+    }
+  </style>
+</head>
+
+<body class="container mx-auto">
+  <div class="pt-6">
+    <a href="./projects.html" class="underline">
+      Projects
+    </a>
+  </div>
+  <div class="flex md:flex-row flex-col-reverse mb-12">
+    <div class="lg:w-1/3 mr-32 w-full">
+      <h1 class="text-6xl mb-12 sm:mt-12">
+        <b>Jon Doe</b>
+        web developer
+      </h1>
+      <p class="mb-12">
+        I'm a web developer with more than 10 years of experience
+      </p>
+      <a href="mailto:giorgiograssini@gmail.com" class="bg-purple pl-12 pr-12 pt-2 pb-2 rounded-3xl text-white w-12 hover:bg-purple-light">
+        Hire me
+      </a>
+      <div class="flex gap-4 pt-12 justify-between w-1/2">
+        <p class="bg-red-light text-white rounded-lg p-2">HTML</p>
+        <p class="bg-orange-light text-white rounded-lg p-2">CSS</p>
+        <p class="bg-purple-light text-white rounded-lg p-2">javascript</p>
+      </div>
+    </div>
+    <img class="object-contain" width="440" height="527" src="../imgs/developer.png" alt="jon doe profile picture">
+  </div>
+
+  <div>
+    <h2 class="text-2xl font-bold mb-12">Latest Projects</h2>
+    <div class="flex flex-wrap gap-12">
+      <a href="./projects.html" class="card">
+        <h3 class="mb-2 text-2xl font-bold tracking-tight text-gray-700">Noteworthy technology
+          acquisitions 2021</h3>
+        <p class="font-normal text-gray-500">Here are the biggest enterprise technology acquisitions
+          of 2021 so far, in reverse chronological order.</p>
+      </a>
+      <a href="./projects.html" class="card">
+        <h3 class="mb-2 text-2xl font-bold tracking-tight text-gray-700">Noteworthy technology
+          acquisitions 2021</h3>
+        <p class="font-normal text-gray-500">Here are the biggest enterprise technology acquisitions
+          of 2021 so far, in reverse chronological order.</p>
+      </a>
+      <a href="./projects.html" class="card">
+        <h3 class="mb-2 text-2xl font-bold tracking-tight text-gray-700">Noteworthy technology
+          acquisitions 2021</h3>
+        <p class="font-normal text-gray-500">Here are the biggest enterprise technology acquisitions
+          of 2021 so far, in reverse chronological order.</p>
+      </a>
+    </div>
+  </div>
+</body>
+
+</html>
