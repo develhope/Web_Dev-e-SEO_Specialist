@@ -8,8 +8,7 @@ This is an exercise to test your knowledge of SEO, Tailwind, BEM and accessibili
 - Tailwind
 - Accessibility
 
-![layout](./imgs/layout.png)
-![layout](./imgs/layout-2.png)
+![layout](./imgs/screencapture.png)
 
 ## Requirements
 
