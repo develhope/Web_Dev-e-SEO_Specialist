@@ -2,8 +2,9 @@ In this exercise, you will create a simple portfolio website. The goal is to cre
 
 ![layout](../imgs/screencapture.png)
 
-Iterations:
+First of all, create a new folder called `portfolio` and create a new file called `index.html` inside it. Then, open the file in your favorite text editor and start writing the HTML code.
 
+Iterations:
 1. Create a basic HTML structure
 2. Add a navbar with links to other pages
 3. Add a main title with your name
