@@ -11,3 +11,9 @@ Keep in mind this checklist:
 - Make sure the font size is at least 16px.
 - Make sure that a screen reader can read the content of the page.
 - Make sure that the website is responsive.
+
+**Suggestions:**
+
+```HTML
+<img src="./profile_pic" alt="NAME profile image" />
+```

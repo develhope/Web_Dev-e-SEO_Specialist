@@ -12,3 +12,20 @@ Iterations:
 6. Add a button to open a mailto link
 7. Add a div with a list of technologies you know
 8. Add a section with a list of projects links which redirect to project pages
+
+**Suggestions:**
+
+```HTML
+ <nav
+    class="pt-6 pb-6 flex gap-4 border border-gray-200 shadow-lg rounded-lg px-12 mt-12">
+    <a href="./projects.html">
+      Projects
+    </a>
+    <a href="./about.html">
+      About
+    </a>
+    <a href="./contact.html">
+      Contact
+    </a>
+  </nav>
+```

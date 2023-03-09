@@ -10,3 +10,18 @@ In this exercise you will refactor your CSS code to use SASS.
 6. Add the `style.css` file to the `index.html` file.
 7. Run the `start` script and check that the website is working.
 8. Refactor the CSS code to use SASS features.
+
+**Suggestions:**
+
+```SCSS
+.navbar {
+  background-color: #333;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  .item {
+    padding: 14px 16px;
+  }
+}
+```
