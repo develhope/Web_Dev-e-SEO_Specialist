@@ -1,0 +1,1 @@
+In this exercise you will need to add the Tailwind CSS framework to your project, and refactor your CSS code to use Tailwind classes.
