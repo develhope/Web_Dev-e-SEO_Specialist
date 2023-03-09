@@ -92,6 +92,24 @@ You will optimize the website for accessibility by following the following guide
   - [ ] `<meta name="site-robots" value="index, follow">`
   - [ ] `<meta name="robots" content="index, follow">`
 
+- What's a crawler?
+  - [ ] It's a set of rules to optimize a website for search engines
+  - [ ] It's a framework to build websites
+  - [ ] It's a set of rules to optimize a website for accessibility
+  - [ ] It's a set of rules to optimize a website for speed
+
+- What's a sitemap?
+  - [ ] It's a file that contains all the links of a website
+  - [ ] It's a file to define the robots
+  - [ ] It's a file to speed up the website
+  - [ ] It's a file to define the language of the website
+
+- What's the robot.txt file?
+  - [ ] It's a file to let search engines know which pages to index
+  - [ ] It's a file to set up the DNS of the website
+  - [ ] It's a file to create a sitemap
+  - [ ] It's a file to increase the indexation of the website
+
 ## Multiple Questions on Tailwind
 
 - What is Tailwind?
@@ -164,32 +182,14 @@ You will optimize the website for accessibility by following the following guide
   - [ ] Web Accessibility Internet - Accessible Rules Internet Applications
   - [ ] Web Accessibility Initiative - Accessible Rich Internet Applications
 
-- What a developer can do for a visually impaired person?
-  - [ ] Add a title to the website
-  - [ ] Add a description to the website
-  - [ ] Add a keywords to the website
-  - [ ] Add a alt attribute to the images
+- Why contrast color ratio is important?
+  - [ ] It's important for people with color blindness
+  - [ ] It's important for people with motor impairments
+  - [ ] It's important for people with cognitive impairments
+  - [ ] It's important for people with visual impairments
 
-- What a developer can do for a hearing impaired person?
-  - [ ] Add a title to the website
-  - [ ] Add a description to the website
-  - [ ] Add a keywords to the website
-  - [ ] Add a audio description to the videos
-
-- What a developer can do for a motor impaired person?
-  - [ ] Add a title to the website
-  - [ ] Add a description to the website
-  - [ ] Add a keywords to the website
-  - [ ] Add a keyboard navigation to the website
-
-- What a developer can do for a color blind person?
-  - [ ] Add a title to the website
-  - [ ] Add a description to the website
-  - [ ] Add a keywords to the website
-  - [ ] Add a color contrast to the website
-
-- What a developer can do for a low vision person?
-  - [ ] Add a title to the website
-  - [ ] Add a description to the website
-  - [ ] Add a keywords to the website
-  - [ ] Add a font size to the website
+- What is a screen reader?
+  - [ ] It's a software to read the screen
+  - [ ] It's a software to read the keyboard
+  - [ ] It's a software to read the mouse
+  - [ ] It's a mode to read the screen
