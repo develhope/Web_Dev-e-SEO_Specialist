@@ -142,6 +142,12 @@ You will optimize the website for accessibility by following the following guide
   - [ ] .fw
   - [ ] .font
 
+- What's the main feature of Tailwind?
+  - [ ] It's a set of rules to optimize a website for search engines
+  - [ ] It's a framework to build websites
+  - [ ] It's a set of rules to optimize a website for accessibility
+  - [ ] It's a set of rules to optimize a website for speed
+
 ## Multiple Questions on BEM
 
 - What is BEM?
